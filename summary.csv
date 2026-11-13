@@ -1,0 +1,4 @@
+strategy,snapshots_or_bars,executions,net_pnl_usd,return_pct,max_drawdown_pct,turnover_usd,ending_qty,liquidity_model
+OU_inventory_baseline,1200,171,25.926876089646612,0.25926876089645834,-0.036353197571170615,94728.6627193963,0.0,baseline
+OU_inventory_reaction_diffusion,1200,165,23.85197718424206,0.2385197718424159,-0.03272944037275849,96582.86382453694,0.0,reaction_diffusion
+OU_inventory_Navier_Stokes,1200,187,21.57884680879033,0.2157884680878963,-0.04093817106084474,104423.17873737091,0.0,navier_stokes

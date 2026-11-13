@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+/inventory_mr_results/
+/inventory_mr_ns_results/
+/snapshots_data/
+/replay_results/
+/ohlcv_results/
